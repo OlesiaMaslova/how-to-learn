@@ -89,7 +89,7 @@
 
 .two-columns__brief {
   flex-direction: column;
-  line-height: 1.2; 
+  line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   align-self: flex-start;
@@ -268,7 +268,7 @@
 .footer__columns {
   display: flex;
   justify-content: space-between;
-  width: 90%;  
+  width: 90%;
   margin:0 auto;
   height:250px;
  }
