@@ -299,7 +299,7 @@
   margin-top: 0;
 }
 
-.footer__column_links {
+.footer__column-links {
   margin-top: 20px;
   margin-bottom: 16px;
   
@@ -312,7 +312,7 @@
   padding-left: 0; 
 }
 
-.footer__column_link {
+.footer__column-link {
  color: #FFF;
  line-height: 30px;
  font-size: 18px;
